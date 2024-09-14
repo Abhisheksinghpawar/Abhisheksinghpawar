@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhisheksinghpawar
-- 👀 I’m interested in tech like Python, SQL, Tableau and Google Analytics
-- 🌱 I’m currently learning Data Science and ML algorithms
-- 💞️ I’m looking to collaborate on Data Analysis/Science projects
+- 👀 I’m interested in tech like Performance Engineering, Analysis and testing
+- 🌱 I’m currently learning Java optimization and Heap dump analysis
+- 💞️ I’m looking to collaborate on any new technology
 - 📫 How to reach me www.abhisheksinghpawar.com
 
 <!---
