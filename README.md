@@ -19,6 +19,12 @@ Welcome to my corner of GitHub — where performance meets precision and curiosi
 
 A smart CLI tool for network engineers and performance analysts. DeltaPerf AI detects latency anomalies, summarises packet captures using AI, and presents clean, color-coded dashboards — all from your terminal.
 
+Powered by:
+
+- 🐍 **Python** for scripting, formatting, and robust file handling  
+- 🦈 **Wireshark** for deep packet inspection and traffic analysis  
+- 🧠 **Ollama (LLMs)** for intelligent summaries and anomaly detection 
+
 > _“Built for speed. Designed for clarity. Powered by Python.”_
 
 ---
